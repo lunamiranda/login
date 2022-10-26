@@ -1,0 +1,99 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #8E44AD;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    width: 375px;
+    margin: 0 auto;
+    padding: 0;
+    
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 28px;
+    margin: 76px 0 76px 0;
+}
+
+.img{
+    width: 300px;
+    display: flex;    
+    flex-direction: column;
+    align-items: center;
+}
+
+.button{
+    width: 280px;
+    margin-bottom: 20px;
+}
+
+.buttons{
+     margin-top: 50px;
+    display: flex;    
+    flex-direction: column;
+    align-items: center;
+    margin-top: 80px;
+}
+
+
+
+input{
+    border: none;
+    color: #9B59B6;
+   
+
+}
+
+.username{
+    margin: 40px 0 30px 0;
+    border-bottom: #9B59B6 1px solid;
+    width: 200px;
+    padding-bottom: 2px;
+    padding-left: 3px;
+}
+
+.password{
+    margin-bottom: 50px;
+    border-bottom: #9B59B6 1px solid;
+    width: 200px;
+    padding-bottom: 2px;
+    padding-left: 3px;
+
+}
+
+.pagelogin{
+    display: flex;    
+    flex-direction: column;
+    align-items: center;
+}
+
+.arrow{
+    position: absolute;
+    margin: 7px -120px ;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+
+}
+
+h2{
+    margin: 0;
+    padding: 0;
+    font-size: 28px;
+    font-weight: 700;
+
+}
+
+.login{
+    margin: 76px 0 60px 0;
+}
+
+.btnlogin{
+    width: 220px;}
+
+
+i{
+color: #9B59B6;
+}
